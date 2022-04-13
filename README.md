@@ -11,4 +11,4 @@ I am Anurag Hooda, a 3rd year **Computer Engineering** student at DTU.
 
 [![stats](https://github-readme-stats.vercel.app/api?username=specdrake&theme=github_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=specdrake&exclude_repo=InfernoAutoModels,specdrake.github.io&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=specdrake&exclude_repo=My-work-ros,InfernoAutoModels,specdrake.github.io&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
