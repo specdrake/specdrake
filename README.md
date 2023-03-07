@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Anurag Hooda, a 3rd year **Computer Engineering** student at DTU.
+I am Anurag Hooda, a final year **Computer Engineering** student at DTU.
 
 - 🔭 I’m currently working on **random fun projects**
 - 🌱 I’m currently learning **Rust**
