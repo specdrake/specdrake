@@ -3,7 +3,7 @@
 I am Anurag Hooda, a **Software Engineer** by profession. 
 
 - 🔭 I’m currently working on **random fun projects**
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go** and planning to learn **Rust**
 - 👯 I’m looking to collaborate on **machine learning projects, full stack web development, rust projects, haskell projects**
 - 📫 How to reach me: **https://linkedin.com/in/anuraghooda**
 - 😄 Pronouns: **he/him**
